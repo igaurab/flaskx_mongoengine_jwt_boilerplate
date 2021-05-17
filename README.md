@@ -1,6 +1,6 @@
 ## Flask Restx Boilerplate
 
-> This is inspired by [Flask Restplus Boilerplate by Cosmic-byte](https://github.com/cosmic-byte/flask-restplus-boilerplate)
+> This is hugely inspired by [Flask Restplus Boilerplate by Cosmic-byte](https://github.com/cosmic-byte/flask-restplus-boilerplate)
 
 ### Includes:
 
@@ -11,3 +11,8 @@
 
 
 **Read More about the project organization:** [Medium Blog Post](https://www.freecodecamp.org/news/structuring-a-flask-restplus-web-service-for-production-builds-c2ec676de563/)
+
+
+TODO:
+
+[ ] Write Tests
