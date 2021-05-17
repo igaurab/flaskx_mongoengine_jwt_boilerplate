@@ -2,6 +2,9 @@
 
 > This is hugely inspired by [Flask Restplus Boilerplate by Cosmic-byte](https://github.com/cosmic-byte/flask-restplus-boilerplate)
 
+Most of the code is copied from the repo above, I have only made few minor changes for it to work well with mongoengine. All credits goes to [cosmic-byte](https://github.com/cosmic-byte/)
+
+
 ### Includes:
 
 1. [Flask Restx](https://github.com/python-restx/flask-restx) for designing restful api 
